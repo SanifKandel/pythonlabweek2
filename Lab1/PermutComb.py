@@ -6,6 +6,5 @@ lr13 = int(input("lr13 students:"))
 lr14 = int(input("lr14 students:"))
 lr15 = int(input("lr15 students:"))
 
-totalSt = lr13 + lr14 + lr15
-desk = round(totalSt/2)
-print (desk)
+totaldesk = round(lr13/2) + round(lr14/2) + round(lr15/2)
+print (totaldesk)
