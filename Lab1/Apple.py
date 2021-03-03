@@ -9,3 +9,4 @@ print ('Each Student will get', Dist)
 Rem = app1 - Dist*Std1
 print ('The remaining apple is', Rem)
 """
+Arko Tarika pani cha
